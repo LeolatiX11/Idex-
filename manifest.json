@@ -1,0 +1,9 @@
+{
+  "name": "iDesk",
+  "short_name": "iDesk",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#10131a",
+  "theme_color": "#10131a",
+  "description": "Un mini desktop web con finestre, widget e web app."
+}
